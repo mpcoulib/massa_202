@@ -1,0 +1,66 @@
+{
+	"Songs": [
+		{
+			"Title": "Blinding Lights",
+			"Artist": "The Weeknd",
+			"Album": "After Hours",
+			"Year": "2019"
+		},
+		{
+			"Title": "Shape of You",
+			"Artist": "Ed Sheeran",
+			"Album": "Divide",
+			"Year": "2017"
+		},
+		{
+			"Title": "Rolling in the Deep",
+			"Artist": "Adele",
+			"Album": "21",
+			"Year": "2010"
+		},
+		{
+			"Title": "Bohemian Rhapsody",
+			"Artist": "Queen",
+			"Album": "A Night at the Opera",
+			"Year": "1975"
+		},
+		{
+			"Title": "Humble",
+			"Artist": "Kendrick Lamar",
+			"Album": "DAMN.",
+			"Year": "2017"
+		},
+		{
+			"Title": "Billie Jean",
+			"Artist": "Michael Jackson",
+			"Album": "Thriller",
+			"Year": "1982"
+		},
+		{
+			"Title": "Hotel California",
+			"Artist": "Eagles",
+			"Album": "Hotel California",
+			"Year": "1976"
+		},
+		{
+			"Title": "Smells Like Teen Spirit",
+			"Artist": "Nirvana",
+			"Album": "Nevermind",
+			"Year": "1991"
+		},
+		{
+			"Title": "Uptown Funk",
+			"Artist": "Mark Ronson ft. Bruno Mars",
+			"Album": "Uptown Special",
+			"Year": "2014"
+		},
+		{
+			"Title": "Shallow",
+			"Artist": "Lady Gaga & Bradley Cooper",
+			"Album": "A Star is Born Soundtrack",
+			"Year": "2018"
+		}
+	]
+	
+	
+}
